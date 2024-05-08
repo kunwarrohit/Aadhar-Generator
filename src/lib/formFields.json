@@ -1,0 +1,35 @@
+{
+    "input":[
+         {
+            "inputName" : "name",
+            "label" : "Name", 
+            "type" : "text" 
+        },
+         {
+            "inputName": "fatherName",
+            "label" : "Father's Name ", 
+            "type" : "text" 
+        },
+         {
+            "inputName": "address",
+            "label" : "Address", 
+            "type" : "text" 
+        },
+         {
+            "inputName": "phoneNumber",
+            "label" : "Phone Number", 
+            "type" : "tel" 
+        }, 
+        {
+            "inputName":"dateOfBirth", 
+            "label":"Date of Birth :",
+            "type":"date"
+        }
+    ],
+    "select" : [
+        {"label" : "Gender", 
+        "selectName" :"gender", 
+        "options": ["male", "female", "other"]}
+    ]
+
+}

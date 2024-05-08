@@ -1,0 +1,16 @@
+{
+    "aadharImages":[
+    {
+        "name" : "ashok.png",
+        "alt" : "Ashok Asthamb"
+    },
+    {
+        "name" : "flag.png",
+        "alt" : "Flag"
+    },
+    {
+        "name" : "logo.png",
+        "alt" : "Logo"
+    }
+    ]
+}
